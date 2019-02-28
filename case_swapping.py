@@ -10,5 +10,5 @@ def swap(string_):
 
 
 if __name__ == "__main__":
-    print swap('HelloWorld')
-print swap('CodeWars')
+    print swap('Hello World')
+print swap('Goodbye World')
