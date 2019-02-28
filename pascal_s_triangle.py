@@ -1,5 +1,4 @@
-#The code will print the pascal's triangle on the screen.
-
+#Pascal's triangle code
 
 def pascal(p):
     if p == 1:
@@ -23,4 +22,4 @@ def pascal(p):
 
 
 if __name__ == '__main__':
-print(pascal(5))
+    print(pascal(5))
